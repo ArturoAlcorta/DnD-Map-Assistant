@@ -11,3 +11,9 @@ To start playing you have to fill in the characters csv file in the characters f
 Please don't include any spaces before or after the commas or else the program won't run properly.
 
 ## Maps
+Include all your map files in the Maps folder, you can name them in order of use, including their size in the name in case you reuse the map for other sessions.  
+Some examples of naming schemes are:
+- Map#_columnsxrows.png
+- #_columnsxrows.png  
+
+Please keep the same naming scheme for all the maps used in the same session.
