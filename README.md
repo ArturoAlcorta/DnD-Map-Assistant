@@ -19,3 +19,5 @@ Some examples of naming schemes are:
 Please keep the same naming scheme for all the maps used in the same session.  
 
 When creating the maps, The best map designer for this tool is found in https://app.dungeonscrawl.com/. Remember, when cutting the map and downloading it as a png, cut an exact number of squares for the best experience. Any other tool which lets you download the map as an image and lets you cut the map to an exact number of squares is also usable.
+
+# Example images
