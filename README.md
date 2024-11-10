@@ -16,4 +16,6 @@ Some examples of naming schemes are:
 - Map#_columnsxrows.png
 - #_columnsxrows.png  
 
-Please keep the same naming scheme for all the maps used in the same session.
+Please keep the same naming scheme for all the maps used in the same session.  
+
+When creating the maps, The best map designer for this tool is found in https://app.dungeonscrawl.com/. Remember, when cutting the map and downloading it as a png, cut an exact number of squares for the best experience.
