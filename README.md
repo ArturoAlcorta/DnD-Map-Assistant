@@ -24,9 +24,9 @@ When creating the maps, The best map designer for this tool is found in https://
 
 # Example images
 ## Character movement example
-![Image 1](./Markdown%20Images/Image1.png)
+![Image 1](./Markdown_Images/Image1.png)
 ## Distance measurement example
-![Image 2](./Markdown%20Images/Image2.png)
+![Image 2](./Markdown_Images/Image2.png)
 
 # Controls
 - Left click: Select entity or activate function (create enemy, kill enemy, measure distance, change map)
