@@ -1,5 +1,5 @@
 # DnD-Map-Assistant
-Tool to show your maps and players during a DnD session. You are able to move the players, add enemies inside fighting areas, move them and kill them. This tool does not track player and enemy health, spell points or any other stat.
+Tool to show your maps and players during a DnD session. You are able to move the players, add enemies inside fighting areas, move them and kill them. This tool does not track player and enemy health, spell points or any other stat.  
 
 # Setup
 
@@ -18,7 +18,19 @@ Some examples of naming schemes are:
 
 Please keep the same naming scheme for all the maps used in the same session.  
 
+When you run the tool for the first time in a session it asks you what the dimensions for each map are. If the dimensions for a given map are 20 columns and 14 rows, write them with a space between them
+
 When creating the maps, The best map designer for this tool is found in https://app.dungeonscrawl.com/. Remember, when cutting the map and downloading it as a png, cut an exact number of squares for the best experience. Any other tool which lets you download the map as an image and lets you cut the map to an exact number of squares is also usable.
 
 # Example images
-![Image 1](./Markdown%20Images/Image%201.png)
+## Character movement example
+![Image 1](./Markdown%20Images/Image1.png)
+## Distance measurement example
+![Image 2](./Markdown%20Images/Image2.png)
+
+# Controls
+- Left click: Select entity or activate function (create enemy, kill enemy, measure distance, change map)
+- Right click: Reset all active selections
+- M key: minimize window
+- Double esc key: Close game
+

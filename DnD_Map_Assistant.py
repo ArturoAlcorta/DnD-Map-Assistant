@@ -187,7 +187,7 @@ def start_game():
     for i, path in enumerate(os.listdir(map_path)):
         if os.path.isfile(os.path.join(map_path, path)):
             path_map = os.path.join(map_path, path)
-            dim = input(f'Que dimensiones tiene el mapa {i + 1}? (columnas , filas)')
+            dim = input(f'Insert dimensions of Map #{i + 1}? columns rows')
             map = Map(path_map, int(dim.split()[0]), int(dim.split()[1]))
             maps.append(map)
 
@@ -288,7 +288,7 @@ def write_data(surface):
 
 
         Data = "Point 1:........{0}\nPoint 2:........{1}\nDistance:......{2}ft"
-        dist = sqrt(((pos_0[0] - pos_1[0])**2 + (pos_0[1] - pos_1[1])**2))*5
+        dist = round(float(sqrt(((pos_0[0] - pos_1[0])**2 + (pos_0[1] - pos_1[1])**2))*5),1)
         info = Data.format(pos_0, pos_1, dist)
         # Calcula la altura de cada línea
         line_height = font.get_linesize()
